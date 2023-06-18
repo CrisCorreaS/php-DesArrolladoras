@@ -11,13 +11,13 @@
         <div class="group">
             <h2><em>Formulario de Registro de Usuarios</em></h2>
             <form method="POST" action="">
-                <label for="nombre">Nombre del Usuario: <span><em>(requerido)</em></span>:</label>
+                <label for="nombre">Nombre del Usuario <span><em>(requerido)</em></span>:</label>
                 <input type="text" id="nombre" name="nombre" pattern="^[a-zA-ZÀ-ÿ\s]{1,40}$" maxlength="50" required><br><br>
     
-                <label for="apellido">Primer Apellido: <span><em>(requerido)</em></span>:</label>
+                <label for="apellido">Primer Apellido <span><em>(requerido)</em></span>:</label>
                 <input type="text" id="apellido" name="apellido" pattern="^[a-zA-ZÀ-ÿ\s]{1,40}$" maxlength="50" required><br><br>
     
-                <label for="email">Email: <span><em>(requerido)</em></span>:</label>
+                <label for="email">Email <span><em>(requerido)</em></span>:</label>
                 <input type="email" id="email" name="email" pattern="^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+" maxlength="50" required><br><br>
     
                 <input type="submit" name="submit" value="Subscríbete">
