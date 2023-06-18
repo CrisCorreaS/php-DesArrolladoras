@@ -1,5 +1,5 @@
 # php-DesArrolladoras
-Ejercicio de Laboratorio del Curso "Desarrollo Full-Stack (Nivel 3) ED.2022" del programa Samsung DesArrolladoras. Formulario en el que tenemos que escribir los valores correspondientes a las columnas nombre, apellido y email para que se añada un nuevo registro en la base de datos "desarrolladoras" en la tabla "usuario". La base de datos es muy parecida a la del repositorio <a href="https://github.com/CrisCorreaS/database-DesArrolladoras">database-DesArrolladoras</a> pero sin el id.
+Ejercicio de Laboratorio del Curso "Desarrollo Full-Stack (Nivel 3) ED.2022" del programa Samsung DesArrolladoras. Formulario en el que tenemos que escribir los valores correspondientes a las columnas nombre, apellido y email para que se añada un nuevo registro en la base de datos "desarrolladoras" en la tabla "usuario". La base de datos es la misma que la del repositorio <a href="https://github.com/CrisCorreaS/database-DesArrolladoras">database-DesArrolladoras</a>.
 
 ### Validaciones
 El formulario incluye las siguientes validaciones:
