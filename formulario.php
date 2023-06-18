@@ -33,7 +33,7 @@
                         $server = "localhost";
                         $username = "root";
                         $password = "123.";
-                        $dbname = "desarrolladoras";
+                        $dbname = "practicasqldesarrolladoras";
     
                         //Creamos una conexión a la base de datos con los parámetros anteriores
                         $connection = new mysqli($server, $username, $password, $dbname);
