@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
   
   //Seleccionamos el formulario.php
-  const form = document.querySelector("formulario");
+  const form = document.querySelector("form");
 
   //Control del envío del formulario
   form.addEventListener("submit", function (event) {
