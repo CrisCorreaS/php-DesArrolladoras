@@ -1,6 +1,11 @@
 # php-DesArrolladoras
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-violet) <br/>
-<br/>
+![Badge Finalizado](https://img.shields.io/badge/STATUS-FINALIZADO-violet)
+<img align="right" alt="License MIT" src="https://img.shields.io/badge/LICENSE-MIT-green" /> <br/>
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img alt="php" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<br/><br/>
 Ejercicio de Laboratorio del Curso "Desarrollo Full-Stack (Nivel 3) ED.2022" del programa Samsung DesArrolladoras. Formulario en el que tenemos que escribir los valores correspondientes a las columnas nombre, apellido y email para que se añada un nuevo registro en la base de datos "practicasqldesarrolladoras" en la tabla "usuario". La base de datos es la misma que la del repositorio <a href="https://github.com/CrisCorreaS/database-DesArrolladoras">database-DesArrolladoras</a>.
 
 ### Validaciones
